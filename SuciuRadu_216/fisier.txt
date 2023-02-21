@@ -1,0 +1,11 @@
+1;Fastfood;Alin,Gicu,Viorel;closed
+2;Elmotech;Radu,Adi;inprogress
+3;Ciserom;Tudor,Gorea,Marian;open
+4;Waikiki;Marius,Suciu,Vancea;closed
+5;Danimarket;Dani;inprogress
+6;Fastfood;Adrian,Viorel;open
+7;Fastfood;Vali,Adi;closed
+8;Fastfood;Gabriel,Bogdan;inprogress
+9;Fastfood;Cristi,Adi;open
+10;Fastfood;Bogdan,Darius,Andrei;closed
+11;ABCDF;Liviu,Vancea,Darius;open

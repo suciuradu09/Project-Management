@@ -1,0 +1,4 @@
+1;Proiect1;Radu,Alin,Marius;open
+2;Proiect2;Andrei,Alin,Darius,Andrei;closed
+3;Proiect3;Radu;open
+4;Proiect4;Andrei,Daniel;inprogress
